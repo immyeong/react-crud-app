@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-crud-app/static/css/main.e70d4c1a.css",
+    "main.js": "/react-crud-app/static/js/main.488c970d.js",
+    "static/js/453.c4197f6e.chunk.js": "/react-crud-app/static/js/453.c4197f6e.chunk.js",
+    "static/media/1909.i506.015.P.m009.c20.mortgage isometric-13.jpg": "/react-crud-app/static/media/1909.i506.015.P.m009.c20.mortgage isometric-13.4c238da55d4e61bc0c61.jpg",
+    "index.html": "/react-crud-app/index.html",
+    "main.e70d4c1a.css.map": "/react-crud-app/static/css/main.e70d4c1a.css.map",
+    "main.488c970d.js.map": "/react-crud-app/static/js/main.488c970d.js.map",
+    "453.c4197f6e.chunk.js.map": "/react-crud-app/static/js/453.c4197f6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e70d4c1a.css",
+    "static/js/main.488c970d.js"
+  ]
+}
