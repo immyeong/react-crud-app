@@ -1,0 +1,68 @@
+.items {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+.itemEl{
+    width: 100%;
+    margin-left: 10px;
+}
+
+.buttons {
+    display: flex;
+    margin : 10px 5px;
+}
+
+.delete__btn {
+    border: none;
+    background-color: rgb(119, 185, 21);
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    padding: 5px 10px;
+    margin-top: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.delete__btn:hover {
+    opacity: 0.8;
+}
+
+.items {
+    background-color: rgba(23, 112, 189, 0.6);
+    box-shadow: 1px 2px 4px 0px;
+    transition: all 0.7s;
+}
+
+.items:hover{
+    scale: 1.05;
+}
+.edit__btn{
+    text-align: center;
+    height: 100%;
+    width: auto;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.edit__btn:hover {
+    opacity: 0.8;
+}
+
+.remove__btn{
+    text-align: center;
+    height: 100%;
+    width: auto;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.remove__btn:hover{
+    opacity: 0.8;
+}
